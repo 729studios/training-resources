@@ -24,4 +24,5 @@
 ## Reading Material
 
 - [CloudSecDocs](https://cloudsecdocs.com/)
+- [PCI DSS v3.2 - Thats the way it is](https://dgozone-pci.weebly.com/pci-ebook.html)
 - [The Cloud Developer Workbook-100 Hands-on Exercises to Build Your AWS Skills](https://theclouddeveloperworkbook.com/)
