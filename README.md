@@ -9,7 +9,7 @@
 
 ## YouTube
 
-[The Art of the Jedi Mid Trick](https://www.youtube.com/watch?v=iD8K7-Ut7mo)
+- [The Art of the Jedi Mid Trick](https://www.youtube.com/watch?v=iD8K7-Ut7mo)
 
 ## Reading Material
 
